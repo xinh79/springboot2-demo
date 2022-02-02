@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "user",
+      "type": "com.abc.boot.bean.User",
+      "sourceType": "com.abc.boot.bean.User"
+    }
+  ],
+  "properties": [
+    {
+      "name": "user.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.abc.boot.bean.User"
+    },
+    {
+      "name": "user.name",
+      "type": "java.lang.String",
+      "sourceType": "com.abc.boot.bean.User"
+    }
+  ],
+  "hints": []
+}
